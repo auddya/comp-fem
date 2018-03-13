@@ -1,0 +1,10 @@
+/home/deb009/compFem/comp-fem/Assignment 3/CMakeFiles/rebuild_cache.dir
+/home/deb009/compFem/comp-fem/Assignment 3/CMakeFiles/edit_cache.dir
+/home/deb009/compFem/comp-fem/Assignment 3/CMakeFiles/info.dir
+/home/deb009/compFem/comp-fem/Assignment 3/CMakeFiles/strip_comments.dir
+/home/deb009/compFem/comp-fem/Assignment 3/CMakeFiles/run.dir
+/home/deb009/compFem/comp-fem/Assignment 3/CMakeFiles/distclean.dir
+/home/deb009/compFem/comp-fem/Assignment 3/CMakeFiles/main3.dir
+/home/deb009/compFem/comp-fem/Assignment 3/CMakeFiles/debug.dir
+/home/deb009/compFem/comp-fem/Assignment 3/CMakeFiles/release.dir
+/home/deb009/compFem/comp-fem/Assignment 3/CMakeFiles/runclean.dir
